@@ -30,5 +30,5 @@ class PepperConnection:
             return None
 
 # 创建全局连接实例
-ip_address = "10.151.15.237"
+ip_address = "10.151.18.91"
 pepper_connection = PepperConnection(ip_address)
