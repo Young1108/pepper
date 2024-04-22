@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Pepper-Controller/pepper_yolact/ciircgym/yolact_vision"
+    ]
+}
